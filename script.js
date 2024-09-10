@@ -7,6 +7,6 @@ function toggleMode() {
   if (html.classList.contains('light')) {
     img.setAttribute("src", "./assets/Perfilbreno.png");
   } else {
-    img.setAttribute("src", "./assets/Perfilbrenob.png");
+    img.setAttribute("src", "./assets/Perfilbreno.png");
   }
 }

@@ -5,8 +5,8 @@ function toggleMode() {
   const img = document.querySelector("#profile img");
 
   if (html.classList.contains('light')) {
-    img.setAttribute("src", "./assets/avatar-claro.png");
+    img.setAttribute("src", "./assets/Perfilbreno.png");
   } else {
-    img.setAttribute("src", "./assets/avatar-escuro.png");
+    img.setAttribute("src", "./assets/Perfilbrenob.png");
   }
 }
